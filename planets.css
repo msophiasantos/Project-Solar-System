@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input, select {
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+button {
+  padding: 5px 10px;
+}
+
+#result {
+  font-weight: bold;
+}
